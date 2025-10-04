@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "TechVision Inc",
+    "industry": "Technology",
+    "location": "San Francisco",
+    "description": "Leading provider of cloud computing solutions and enterprise software for modern businesses."
+  },
+  {
+    "id": 2,
+    "name": "HealthCare Plus",
+    "industry": "Healthcare",
+    "location": "New York",
+    "description": "Innovative healthcare technology company focused on patient care and medical data analytics."
+  },
+  {
+    "id": 3,
+    "name": "FinanceHub",
+    "industry": "Finance",
+    "location": "London",
+    "description": "Digital banking platform providing seamless financial services to millions of customers worldwide."
+  },
+  {
+    "id": 4,
+    "name": "EduLearn",
+    "industry": "Education",
+    "location": "Boston",
+    "description": "Online learning platform offering courses and certifications in various professional fields."
+  },
+  {
+    "id": 5,
+    "name": "RetailMax",
+    "industry": "Retail",
+    "location": "Chicago",
+    "description": "E-commerce giant revolutionizing online shopping with AI-powered recommendations."
+  },
+  {
+    "id": 6,
+    "name": "AutoDrive Systems",
+    "industry": "Automotive",
+    "location": "Detroit",
+    "description": "Autonomous vehicle technology company developing next-generation self-driving systems."
+  },
+  {
+    "id": 7,
+    "name": "GreenEnergy Co",
+    "industry": "Energy",
+    "location": "Austin",
+    "description": "Renewable energy solutions provider specializing in solar and wind power installations."
+  },
+  {
+    "id": 8,
+    "name": "MediaStream",
+    "industry": "Entertainment",
+    "location": "Los Angeles",
+    "description": "Streaming service delivering premium content and original productions to global audiences."
+  },
+  {
+    "id": 9,
+    "name": "FoodDelivery Pro",
+    "industry": "Food & Beverage",
+    "location": "Seattle",
+    "description": "On-demand food delivery platform connecting restaurants with hungry customers instantly."
+  },
+  {
+    "id": 10,
+    "name": "TravelEase",
+    "industry": "Travel",
+    "location": "Miami",
+    "description": "Travel booking platform offering flights, hotels, and vacation packages at competitive prices."
+  },
+  {
+    "id": 11,
+    "name": "CyberSecure",
+    "industry": "Technology",
+    "location": "San Francisco",
+    "description": "Cybersecurity firm protecting businesses from digital threats with advanced AI detection."
+  },
+  {
+    "id": 12,
+    "name": "BioTech Innovations",
+    "industry": "Healthcare",
+    "location": "Boston",
+    "description": "Biotechnology company developing breakthrough treatments for rare diseases."
+  },
+  {
+    "id": 13,
+    "name": "InvestSmart",
+    "industry": "Finance",
+    "location": "New York",
+    "description": "Investment management platform using machine learning for portfolio optimization."
+  },
+  {
+    "id": 14,
+    "name": "BuildPro Construction",
+    "industry": "Construction",
+    "location": "Dallas",
+    "description": "Commercial construction company specializing in sustainable building practices."
+  },
+  {
+    "id": 15,
+    "name": "FashionForward",
+    "industry": "Retail",
+    "location": "New York",
+    "description": "Online fashion retailer curating the latest trends from emerging designers worldwide."
+  },
+  {
+    "id": 16,
+    "name": "CloudNet Solutions",
+    "industry": "Technology",
+    "location": "Seattle",
+    "description": "Cloud infrastructure provider offering scalable hosting and DevOps solutions."
+  },
+  {
+    "id": 17,
+    "name": "SportsFit",
+    "industry": "Healthcare",
+    "location": "Denver",
+    "description": "Fitness and wellness company providing personalized training programs and nutrition plans."
+  },
+  {
+    "id": 18,
+    "name": "PropTech Realty",
+    "industry": "Real Estate",
+    "location": "San Francisco",
+    "description": "Real estate technology platform streamlining property transactions with blockchain."
+  },
+  {
+    "id": 19,
+    "name": "AgriGrow",
+    "industry": "Agriculture",
+    "location": "Iowa",
+    "description": "Agricultural technology company optimizing crop yields through precision farming."
+  },
+  {
+    "id": 20,
+    "name": "GameStudio Elite",
+    "industry": "Entertainment",
+    "location": "Los Angeles",
+    "description": "Video game development studio creating immersive AAA gaming experiences."
+  },
+  {
+    "id": 21,
+    "name": "LegalTech Partners",
+    "industry": "Legal",
+    "location": "Washington DC",
+    "description": "Legal technology platform automating document review and contract management."
+  },
+  {
+    "id": 22,
+    "name": "InsureTech",
+    "industry": "Finance",
+    "location": "Chicago",
+    "description": "Insurance technology company offering personalized coverage through AI risk assessment."
+  },
+  {
+    "id": 23,
+    "name": "LogiChain",
+    "industry": "Logistics",
+    "location": "Atlanta",
+    "description": "Supply chain management platform optimizing delivery routes and inventory tracking."
+  },
+  {
+    "id": 24,
+    "name": "SpaceTech Ventures",
+    "industry": "Aerospace",
+    "location": "Houston",
+    "description": "Aerospace company developing satellite technology for global communications."
+  },
+  {
+    "id": 25,
+    "name": "EcoPackaging",
+    "industry": "Manufacturing",
+    "location": "Portland",
+    "description": "Sustainable packaging manufacturer creating biodegradable alternatives to plastic."
+  }
+]
