@@ -1,7 +1,9 @@
-import Dashboard from "./Dashboard";
 import Home from "./Home";
+import Companies from "./Companies";
+import NotFound from "./NotFound";
 
 export {
-    Dashboard,
-    Home
+    Home,
+    Companies,
+    NotFound
 }

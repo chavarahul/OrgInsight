@@ -1,19 +1,17 @@
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-} from "react-router-dom";
-import { Dashboard, Home } from "./pages";
-import NotFound from "./components/NotFound";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Companies, Home, NotFound } from "./pages";
+import {  Providers } from "./components";
 
 const App = () => {
   return (
     <Router>
+        <Providers>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/dashboard" element={<Dashboard />} />
-        <Route path="*" element={<NotFound />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/companies" element={<Companies />} />
+          <Route path="*" element={<NotFound />} />
       </Routes>
+        </Providers>
     </Router>
   );
 };

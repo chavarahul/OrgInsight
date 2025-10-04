@@ -12,7 +12,7 @@ const Header = () => {
                   bg-white/20 backdrop-blur-xl border-gray-200"
       >
         <div className="flex items-center gap-2">
-          <div className="w-6 h-6 rounded-full bg-gray-900"></div>
+          <div className="w-6 h-6 rounded-full bg-[#8b6f47]"></div>
           <span className="text-gray-900 font-semibold text-lg">
             OrgInsight
           </span>
