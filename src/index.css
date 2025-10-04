@@ -123,3 +123,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+:where(html,body)::-webkit-scrollbar{
+  width: 0px;
+}

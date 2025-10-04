@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card"
-import { Building2, SearchX } from "lucide-react"
+import { Building2 } from "lucide-react"
 
 const EmptyState = () => {
   return (

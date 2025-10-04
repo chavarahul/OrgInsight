@@ -39,31 +39,17 @@ const Header = () => {
         >
           <Link
             to="/"
-            className="hover:underline"
+            className=""
             onClick={() => setIsOpen(false)}
           >
             Home
           </Link>
           <Link
             to="/companies"
-            className="hover:underline"
+            className=""
             onClick={() => setIsOpen(false)}
           >
             Companies
-          </Link>
-          <Link
-            to="/about"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            About
-          </Link>
-          <Link
-            to="/contact"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            Contact
           </Link>
         </nav>
       </div>
